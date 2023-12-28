@@ -99,7 +99,7 @@ class CustomNeuralNetworkRegressor:
         return self
 
 
-class CustomNeuralNetworkClassifierFull:
+class CustomNeuralNetworkClassifier:
     """
     Custom neural network classifier
     activation functions are relu for non-output layers and sigmoid for output layer
